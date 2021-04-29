@@ -1,0 +1,22 @@
+System.Management.Automation.PSRemotingJob
+C:\Intel
+System.Management.Automation.PSRemotingJob
+C:\PerfLogs
+System.Management.Automation.PSRemotingJob
+C:\Program Files
+System.Management.Automation.PSRemotingJob
+C:\Program Files (x86)
+System.Management.Automation.PSRemotingJob
+C:\PW
+System.Management.Automation.PSRemotingJob
+C:\Python39
+System.Management.Automation.PSRemotingJob
+C:\Users
+System.Management.Automation.PSRemotingJob
+C:\Windows
+System.Management.Automation.PSRemotingJob
+C:\test.csv
+System.Management.Automation.PSRemotingJob
+C:\test.txt
+System.Management.Automation.PSRemotingJob
+C:\test2.csv
